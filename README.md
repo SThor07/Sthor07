@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm Shrivatsasingh Rathore 👋  
+🎓 Graduate Student – M.S. Data Science @ Arizona State University  
+🔬 Researcher & Builder – Graph Neural Networks, Data Engineering, Machine Learning  
+💡 Always learning, always building, always curious
 
-<!--
-**SThor07/Sthor07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 What I’m into:  
+🤖 Machine Learning, Deep Learning, and AI  
+📈 Data Science, Analytics & Data Visualization  
+🚚 Operations Research & Route Optimization  
+🌐 Building full-stack data solutions & cloud automation  
+🔬 Spatiotemporal modeling & real-world impact projects
 
-Here are some ideas to get you started:
+🔧 Some projects I’ve built:  
+🗺️ Crime Hotspot Detection with GNNs & Spatiotemporal Modeling  
+🚲 RideShare Demand Forecasting & Promotion Strategy   
+🚚 Vehicle Routing Problem (VRP) Solver & Visualization  
+📊 Augmented Analytics Platform (Streamlit-powered, actionable insights for business users)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Let’s Connect  
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/shrivatsasingh-rathore/) • [Email](mailto:srathor9@asu.edu)
+
+“Build with purpose. Analyze with curiosity. Learn relentlessly.”
