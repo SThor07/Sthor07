@@ -3,6 +3,8 @@ Hi there, I'm Shrivatsasingh Rathore 👋
 🔬 Researcher & Builder – Graph Neural Networks, Data Engineering, Machine Learning  
 💡 Always learning, always building, always curious
 
+<hr style="height:4px;border-width:0;color:#666;background-color:#666;">
+
 🧠 What I’m into:  
 🤖 Machine Learning, Deep Learning, and AI  
 📈 Data Science, Analytics & Data Visualization  
@@ -10,13 +12,19 @@ Hi there, I'm Shrivatsasingh Rathore 👋
 🌐 Building full-stack data solutions & cloud automation  
 🔬 Spatiotemporal modeling & real-world impact projects
 
+<hr style="height:4px;border-width:0;color:#666;background-color:#666;">
+
 🔧 Some projects I’ve built:  
 🗺️ Crime Hotspot Detection with GNNs & Spatiotemporal Modeling  
 🚲 RideShare Demand Forecasting & Promotion Strategy   
 🚚 Vehicle Routing Problem (VRP) Solver & Visualization  
 📊 Augmented Analytics Platform (Streamlit-powered, actionable insights for business users)
 
+<hr style="height:4px;border-width:0;color:#666;background-color:#666;">
+
 🌐 Let’s Connect  
 [Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/shrivatsasingh-rathore/) • [Email](mailto:srathor9@asu.edu)
+
+<hr style="height:4px;border-width:0;color:#666;background-color:#666;">
 
 “Build with purpose. Analyze with curiosity. Learn relentlessly.”
