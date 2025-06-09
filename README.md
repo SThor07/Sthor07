@@ -23,7 +23,7 @@ Hi there, I'm Shrivatsasingh Rathore 👋
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
 
 🌐 Let’s Connect  
-[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/shrivatsasingh-rathore/) • [Email](mailto:srathor9@asu.edu)
+[LinkedIn](https://www.linkedin.com/in/shrivatsasingh-rathore/) • [Email](mailto:srathor9@asu.edu)
 
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
 
