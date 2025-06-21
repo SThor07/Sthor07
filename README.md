@@ -14,10 +14,10 @@ Hi there, I'm Shrivatsasingh Rathore 👋
 
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
 
-🔧 Some projects I’ve built:  
+🔧 Some projects I’ve built: 
+📚 Smart-Based Book Recommendation System | LLM Integration, Zero-Shot Classification, Sentiment Analysis
 🗺️ Crime Hotspot Detection with GNNs & Spatiotemporal Modeling  
 🚲 RideShare Demand Forecasting & Promotion Strategy   
-🚚 Vehicle Routing Problem (VRP) Solver & Visualization  
 📊 Augmented Analytics Platform (Streamlit-powered, actionable insights for business users)
 
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
