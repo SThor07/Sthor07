@@ -14,13 +14,16 @@ Hi there, I'm Shrivatsasingh Rathore 👋
 
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
 
-🔧 Some projects I’ve built: 
-<span style="display:inline-block; margin-right: 10px;">📚 Smart-Based Book Recommendation System | LLM Integration, Zero-Shot Classification, Sentiment Analysis</span>
-<span style="display:inline-block; margin-right: 10px;">🗺️ Crime Hotspot Detection with GNNs & Spatiotemporal Modeling</span>
-<span style="display:inline-block; margin-right: 10px;">🚲 RideShare Demand Forecasting & Promotion Strategy</span>
-<span style="display:inline-block;">📊 Augmented Analytics Platform (Streamlit-powered, actionable insights for business users)</span>
+🔧 Some projects I’ve built:
+<ul>
+  <li>📚 Smart-Based Book Recommendation System | LLM Integration, Zero-Shot Classification, Sentiment Analysis</li>
+  <li>🗺️ Crime Hotspot Detection with GNNs & Spatiotemporal Modeling</li>
+  <li>🚲 RideShare Demand Forecasting & Promotion Strategy</li>
+  <li>📊 Augmented Analytics Platform (Streamlit-powered, actionable insights for business users)</li>
+</ul>
 
 <hr style="height:4px;border-width:0;color:#666;background-color:#666;">
+
 
 
 🌐 Let’s Connect  
